@@ -9,7 +9,7 @@
 | 🇬🇧 English | 🇪🇸 Español |
 | :--- | :--- |
 | Developer focused on building robust and secure software with Python. I believe in persistence, clean code, and continuous learning. | Desarrollador enfocado en la creación de sistemas seguros y escalables con Python. Creo en la persistencia, el código limpio y el aprendizaje continuo. |
-| 🛠️ **Current Project:** [Security System Manager](https://github.com/akaEGO-dev/Security-System-Manager) | 🛠️ **Proyecto actual:** [Security System Manager](https://github.com/akaEGO-dev) |
+| 🛠️ **Current Project:** [Security System Manager](https://github.com/akaEGO-dev/Security-System-Manager) | 🛠️ **Proyecto actual:** [Security System Manager](https://github.com/akaEGO-dev/Security-System-Manager) |
 | 🐍 **Main Language:** Python (OOP) | 🐍 **Lenguaje principal:** Python (POO) |
 
 ---
