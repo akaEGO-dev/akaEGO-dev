@@ -33,12 +33,7 @@
 ---
 
 ### 🏆 Objetivos 2026 / 2026 Goals
-
-- [x] Configurar perfil profesional bilingüe
-- [ ] Completar las 73 lecciones de Java con documentación en Obsidian
-- [ ] Publicar mi "Master Vault" de Java para la comunidad
 - [ ] Alcanzar los 100 commits en proyectos de aprendizaje real
-
 ---
 
 ### 📂 Proyecto Destacado / Current Project
