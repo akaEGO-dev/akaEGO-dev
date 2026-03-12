@@ -1,4 +1,4 @@
-# 👨‍💻 akaEGO-dev | Java Developer
+# 👨‍💻 akaEGO-dev | Java Software Explorer
 
 ### 🛡️ "Build in public, code with purpose." / "Construyendo en público, programando con propósito."
 
@@ -8,33 +8,42 @@
 
 | 🇬🇧 English | 🇪🇸 Español |
 | :--- | :--- |
-| ES: Desarrollador enfocado en dominar los fundamentos de Java y la arquitectura de software. Creo en la documentación meticulosa como base del aprendizaje y en entender qué pasa bajo el capó (Stack/Heap).
+| Developer focused on mastering Java fundamentals and software architecture. I believe in meticulous documentation as the foundation of learning and understanding what happens under the hood (Stack/Heap). | Desarrollador enfocado en dominar los fundamentos de Java y la arquitectura de software. Creo en la documentación meticulosa como base del aprendizaje y en entender qué pasa "bajo el capó" (Stack/Heap). |
 
-  EN: Developer focused on mastering Java fundamentals and software architecture. I believe in meticulous documentation as the foundation of learning and understanding what happens under the hood.
 ---
 
 ### 🛠️ Tech Stack / Arsenal Técnico
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📈 Mi Actividad / My Activity
+
 | Categoría | Nivel | Estado |
 | :--- | :--- | :--- |
-| 🐍 Python (OOP) | Intermedio | 🟢 En progreso |
+| ☕ Java (Core) | Básico/Intermedio | 🟢 En progreso |
+| 🧠 Obsidian Master Vault | Pro | 🟢 Activo |
 | 🛡️ Ciberseguridad | Básico | 🟡 Estudiando |
 | 🐙 Git / GitHub | Intermedio | 🟢 Activo |
-| 📝 Documentación | Pro | 🟢 Al día |
 
 ---
 
 ### 🏆 Objetivos 2026 / 2026 Goals
-- [x] Crear sistema de seguridad v4.0 (Python)
+
 - [x] Configurar perfil profesional bilingüe
-- [ ] Implementar sistema de Logs con `datetime`
-- [ ] Alcanzar los 100 commits en proyectos reales
+- [ ] Completar las 73 lecciones de Java con documentación en Obsidian
+- [ ] Publicar mi "Master Vault" de Java para la comunidad
+- [ ] Alcanzar los 100 commits en proyectos de aprendizaje real
+
+---
+
+### 📂 Proyecto Destacado / Current Project
+👉 **[Java Master Vault](tu-enlace-aquí)**: Mi cerebro digital donde documento cada pilar de Java para ganarle al tiempo y dominar el lenguaje.
+
 ---
 
 ### 📫 Connect with me / Conecta conmigo
