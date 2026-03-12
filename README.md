@@ -1,4 +1,4 @@
-# 👨‍💻 akaEGO-dev | Python Developer
+# 👨‍💻 akaEGO-dev | Java Developer
 
 ### 🛡️ "Build in public, code with purpose." / "Construyendo en público, programando con propósito."
 
@@ -8,10 +8,9 @@
 
 | 🇬🇧 English | 🇪🇸 Español |
 | :--- | :--- |
-| Developer focused on building robust and secure software with Python. I believe in persistence, clean code, and continuous learning. | Desarrollador enfocado en la creación de sistemas seguros y escalables con Python. Creo en la persistencia, el código limpio y el aprendizaje continuo. |
-| 🛠️ **Current Project:** [Security System Manager](https://github.com/akaEGO-dev/Security-System-Manager)) | 🛠️ **Proyecto actual:** [Security System Manager](https://github.com/akaEGO-dev/Security-System-Manager) |
-| 🐍 **Main Language:** Python (OOP) | 🐍 **Lenguaje principal:** Python (POO) |
+| ES: Desarrollador enfocado en dominar los fundamentos de Java y la arquitectura de software. Creo en la documentación meticulosa como base del aprendizaje y en entender qué pasa bajo el capó (Stack/Heap).
 
+  EN: Developer focused on mastering Java fundamentals and software architecture. I believe in meticulous documentation as the foundation of learning and understanding what happens under the hood.
 ---
 
 ### 🛠️ Tech Stack / Arsenal Técnico
